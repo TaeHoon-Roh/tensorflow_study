@@ -18,3 +18,5 @@ cd _git
 git init  
 git clone https://github.com/TaeHoon-Roh/tensorflow_study.git  
 python main.py
+
+![ex_screenshot](./image.PNG)
