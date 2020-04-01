@@ -1,5 +1,10 @@
-# Tensorflow Study
+# Tensorflow Study  
+
+## **중요** : GPU 0, 1 번 쓰지말것
+
+
 ## Docker
+
 
 docker run --gpus '"device=3,4"' --name uxfac_gpu_tensor -dt -i tensorflow/tensorflow:latest-gpu /bin/bash  
 
